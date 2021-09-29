@@ -6,4 +6,9 @@
 - ⚡ Fun fact: im miserable
 - 👩‍💻 Languages: C#|Java|Javascript|HTML & CSS 🤔|C++|Python|
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Klivess)](https://github.com/Klivess/Klivess)
+<a href="https://github.com/Klivess/Klivess">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Klives&repo=Klivess" />
+</a>
+<a href="https://github.com/Klivess/Klivess">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Klivess&show_icons=true&theme=radical" />
+</a>
