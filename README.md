@@ -7,3 +7,12 @@ I do not make money from any of my works and I do not currently do software engi
 If you would like to contact me, by all means:
 Discord: Klives#8505
 Email: klivesdev@gmail.com
+
+<body style="display: flex; justify-content: center">
+  <div style="display: grid; grid-template-rows: 1fr 1fr; gap: 30px; justify-content: center;">
+  <a href="https://github.com/Klivess/Klivess" style="padding: 10px;">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Klivess&show_icons=true&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Klivess" />
+  </a>
+  </div>
+</body>
