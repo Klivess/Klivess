@@ -1,4 +1,5 @@
-Hello there!
+<p align="center">
+  Hello there!
 
 I am primarily a software engineer currently specializing in automated services and simulations/engines through C# and C++, but I also dabble in plenty of other things such as AI. I am a 16 year old in the UK who has been engaging in CS and programming since I was 10 years old and I am currently working on KlivePhysic, Tira3D and the Civilisation Cultivation project.
 
@@ -7,12 +8,7 @@ I do not make money from any of my works and I do not currently do software engi
 If you would like to contact me, by all means:
 Discord: Klives#8505
 Email: klivesdev@gmail.com
-
-<body style="display: flex; justify-content: center">
-  <div style="display: grid; grid-template-rows: 1fr 1fr; gap: 30px; justify-content: center;">
-  <a href="https://github.com/Klivess/Klivess" style="padding: 10px;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Klivess&show_icons=true&theme=radical" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Klivess" />
-  </a>
-  </div>
-</body>
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Klivess" />
+</p>
