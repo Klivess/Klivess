@@ -10,5 +10,5 @@ Discord: Klives#8505
 Email: klivesdev@gmail.com
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Klivess" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Klivess&exclude_repo=KliveBotWebsite" />
 </p>
