@@ -3,7 +3,7 @@
 
 I am primarily a software engineer currently specializing in automated services and simulations/engines through C# and C++, but I also dabble in plenty of other things such as AI. I am a 16 year old in the UK who has been engaging in CS and programming since I was 10 years old and I am currently working on KlivePhysic, Tira3D and my magnum opus; the Civilisation Cultivation project.
 
-I do not make money from any of my works and I do not currently do software engineering as a freelancer or for any sort of monetary gain. All of my open source projects are out of passion.
+I do not make money from any of my works and I do not currently do software engineering as a freelancer or for any sort of formal work. All of my open source projects are out of passion.
 
 If you would like to contact me, by all means:
 <br>
