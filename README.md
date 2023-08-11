@@ -6,7 +6,9 @@ I am primarily a software engineer currently specializing in automated services 
 I do not make money from any of my works and I do not currently do software engineering as a freelancer or for any sort of monetary gain. All of my open source projects are out of passion.
 
 If you would like to contact me, by all means:
-Discord: Klives#8505
+<br>
+Discord: klives.
+<br>
 Email: klivesdev@gmail.com
 </p>
 <p align="center">
